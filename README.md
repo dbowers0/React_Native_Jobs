@@ -7,10 +7,9 @@ JobListingApp is a React Native application that allows users to search for job 
 ## Features
 
 - Search for job listings using keywords and location filters.
-- Filter job listings by job type, industry, salary range, and more.
+- Filter job listings by job type, industry, and more.
 - View detailed information about each job listing.
 - Save favorite job listings for future reference.
-- Apply filters to refine search results.
 
 ## Installation
 
