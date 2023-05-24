@@ -2,7 +2,7 @@
 
 JobListingApp is a React Native application that allows users to search for job listings using the JSearch API from RapidAPI. It provides a user-friendly interface to browse and filter job listings based on various criteria.
 
-![JobListingApp Screenshot](/screenshots/screenshot.png)
+<img src="/screenshots/screenshot.png" alt="JobListingApp Screenshot" width="400">
 
 ## Features
 
